@@ -1,2 +1,1 @@
-Estado del Sistema: ESTABLE.
-Módulo de usuarios añadido.
+ERROR 500 - SISTEMA CAÍDO
